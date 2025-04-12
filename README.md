@@ -34,9 +34,8 @@ The framework includes:
 | OpenPyXL        | Excel file interaction                          |
 | HTML Report     | Pytest HTML plugin                              |
 | Explicit Wait   | WebDriverWait + Expected Conditions             |
-            |
-
-Test Case ID	Description
+---
+## Test Case ID	Description
 TC-01	 Data-Driven Login Test (Positive/Negative) from Excel and verify using Cookies.
 TC-02	 Verify Home URL is accessible.
 TC-03	 Validate visibility of username & password input fields.
